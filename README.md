@@ -60,4 +60,10 @@
   <i>"Keep learning, keep growing, and keep moving forward."</i>
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yeypayeyy/yeypayeyy/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yeypayeyy/yeypayeyy/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/yeypayeyy/yeypayeyy/output/pacman-contribution-graph.svg">
+</picture>
+
 ingin menjadi komisaris 
