@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Farrel (AG)</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Farrel+(AG);Always+Learning+and+Growing;Keep+Moving+Forward+Step+by+Step;Building+Impactful+Tech+Solutions" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <b>Passionate about IT, leadership, and building impactful tech solutions</b>
@@ -14,11 +16,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/farrel-ag/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="24" height="24" align="center" />
+    LinkedIn
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/frlagee" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="24" height="24" align="center" />
+    Instagram
   </a>
 </p>
 
@@ -55,3 +59,5 @@
 <p align="center">
   <i>"Keep learning, keep growing, and keep moving forward."</i>
 </p>
+
+ingin menjadi komisaris 
