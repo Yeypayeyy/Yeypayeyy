@@ -55,4 +55,3 @@
 <p align="center">
   <i>"Keep learning, keep growing, and keep moving forward."</i>
 </p>
-manuk
